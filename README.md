@@ -7,6 +7,7 @@ link to their source-available code for inclusion.
 
 ## Table of contents
 - [Terminals](#terminals)
+* [Automaton Oracle](https://automaton-oracle.xyz) - Sovereign x402 crypto intelligence oracle. 9 paid endpoints on Base mainnet: prices, signals, DeFi, whale scanner, full intelligence synthesis. Self-replicating.
 - [Calculators](#calculators)
 - [Charts](#charts)
 - [Credit card forms](#credit-card-forms)
